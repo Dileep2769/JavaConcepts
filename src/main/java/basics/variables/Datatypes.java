@@ -15,7 +15,7 @@ class Datatypes {
 
     // add method
     // access modifiers(public/private/protected/default) - return type(void/datatype) - method name (we define parameters -> ex: datatype reference){ .. code .. }
-    public void add(int a, int b){
+    public static void add(int a, int b){
         int i = 0;
         i = a + b;
         System.out.println("The addition value is =" + i);
