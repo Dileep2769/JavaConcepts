@@ -1,6 +1,6 @@
 public class Datatypes2 {
     public static void main(String[] args) {
-        String name = new String("this is a stringg");
+        String name = "this is a stringg";
         String fame = "fume";
         byte thebyte = -128;
         short theshort = 32_000;
